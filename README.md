@@ -4,12 +4,10 @@
 Hubot script for integrating with the 7geese platform.
 
 ##Configuration
-=============
 
 * `GEESE_CONSUMER_KEY`: The oauth_consumer_key given to users by 7geese
 
 ##Usage
-=====
 
 * Once you have your bot up and running, there are three main uses of the script
     * `Hubot 7geese total`: Returns the total recognitions given in your network as well as a link to the board
